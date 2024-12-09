@@ -1,8 +1,4 @@
-"table_1._value_of_construction_put_in_place_in_the_united_states,_seasonally_adjusted_annual_rate",unnamed:_1,unnamed:_2,unnamed:_3,unnamed:_4,unnamed:_5,unnamed:_6,unnamed:_7,unnamed:_8
-(Millions of dollars. Details may not add to totals due to rounding.),0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,"Percent change
-Jan 2024 from -",0
+type_of_construction,jan_2024,dec_2023,nov_2023,oct_2023,sep_2023,jan_2023,percent_change_dec,percent_change_jan
 "            Type of Construction
 ","Jan
 2024p","Dec
@@ -13,11 +9,8 @@ Jan 2024 from -",0
 2023","Dec
 2023","Jan
 2023"
-0,0,0,0,0,0,0,0,0
 Total Construction,2102434,2105791,2082923,2058903,2017510,1882199,-0.2,11.7
-0,0,0,0,0,0,0,0,0
 Residential,912206,910225,897439,900880,880387,865778,0.2,5.4
-0,0,0,0,0,0,0,0,0
 Nonresidential,1190228,1195566,1185484,1158023,1137124,1016421,-0.4,17.1
     Lodging,23807,23957,23972,23871,24385,22579,-0.6,5.4
     Office,101975,102105,101936,101330,101067,95597,-0.1,6.7
@@ -35,13 +28,10 @@ Nonresidential,1190228,1195566,1185484,1158023,1137124,1016421,-0.4,17.1
     Water supply ,29226,29815,30067,29840,28959,23923,-2,22.2
     Conservation and development ,11823,11844,11849,12268,12043,11121,-0.2,6.3
     Manufacturing,224947,220394,218647,207210,203337,164649,2.1,36.6
-0,0,0,0,0,0,0,0,0
 Total Private Construction1,1623448,1622263,1608894,1591086,1565336,1483271,0.1,9.5
-0,0,0,0,0,0,0,0,0
 Residential2,900846,899079,886493,889911,869635,856046,0.2,5.2
     New single family,430129,427532,419770,410575,406009,382298,0.6,12.5
     New multifamily ,134477,135006,134438,135043,135491,124644,-0.4,7.9
-0,0,0,0,0,0,0,0,0
 Nonresidential,722602,723183,722401,701176,695701,627226,-0.1,15.2
     Lodging,23217,23408,23488,23529,24032,22241,-0.8,4.4
     Office,86082,85985,85923,85398,85460,82130,0.1,4.8
@@ -54,11 +44,8 @@ Nonresidential,722602,723183,722401,701176,695701,627226,-0.1,15.2
     Communication,24944,24836,24858,24921,24738,24398,0.4,2.2
     Power,114774,114422,113693,110400,108400,104376,0.3,10
     Manufacturing ,224293,219973,218173,206692,202834,164186,2,36.6
-0,0,0,0,0,0,0,0,0
 Total Public Construction3,478986,483528,474028,467817,452174,398928,-0.9,20.1
-0,0,0,0,0,0,0,0,0
 Residential,11360,11146,10946,10969,10752,9733,1.9,16.7
-0,0,0,0,0,0,0,0,0
 Nonresidential,467626,472383,463083,456848,441423,389195,-1,20.2
     Office,15893,16120,16013,15932,15607,13467,-1.4,18
     Commercial,4843,4835,4666,4862,4656,4579,0.2,5.8
@@ -72,17 +59,12 @@ Nonresidential,467626,472383,463083,456848,441423,389195,-1,20.2
     Sewage and waste disposal ,41920,42359,42344,42496,41889,34557,-1,21.3
     Water supply,28236,28623,28853,28754,27653,23117,-1.4,22.1
     Conservation and development,11691,11794,11817,12211,11962,11066,-0.9,5.6
-0,0,0,0,0,0,0,0,0
 p Preliminary r Revised,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0
 1Includes the following categories of private construction not shown separately:,0,0,0,0,0,0,0,0
 "public safety, highway and street, sewage and waste disposal, water supply, and conservation and development.",0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0
 2Includes private residential improvements.,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0
 3Includes the following categories of public construction not shown separately:,0,0,0,0,0,0,0,0
 "lodging, religious, communication, and manufacturing.",0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0
 "Data are at an annual rate, adjusted for seasonality but not price changes. Source: U.S. Census Bureau, Construction Spending, March 1, 2024.",0,0,0,0,0,0,0,0
 Table 3 provides estimated measures of sampling variability. Additional information on the survey methodology may be found at,0,0,0,0,0,0,0,0
 <www.census.gov/construction/c30/meth.html>,0,0,0,0,0,0,0,0
